@@ -1,4 +1,3 @@
-console.log('oi')
 
 const request = require('request')
 
