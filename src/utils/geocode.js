@@ -1,3 +1,5 @@
+console.log('oi')
+
 const request = require('request')
 
 const geocode = (address, callback) => {
